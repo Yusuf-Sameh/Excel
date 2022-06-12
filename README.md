@@ -27,4 +27,15 @@ Store_Sales: Sales in (US $) that stores made.
 - Build a dashboard that contains stores list, and when you choose a specific store, a detailed report appears on the status and information of this store.
 
 # Some of what has been done
-- 
+- The data has been converted from text to column (csv >>>to>>> columns & rows format ).
+
+- detect and remove duplicated values
+
+- detect and remove null values
+
+- conver Store ID,Store_Area,Items_Available,Daily_Customer_Count to number format and Store_Sales to currency
+
+- convert data as table
+
+- create pivot table
+
