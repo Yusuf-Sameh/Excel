@@ -1,10 +1,9 @@
-# Excel
+# Excel/ simple dashboard to display store information
 
 # Final files
 - original_data
 - final_project
-- analysis screen
-- dashboard screen
+- dashboard screen pdf file
 
 # About Data
 The data is taken from the Kaggle website as a CSV file containing data for the sales of branches in the supermarket.
@@ -23,7 +22,6 @@ DailyCustomerCount: Number of customers who visited to stores on an average over
 Store_Sales: Sales in (US $) that stores made.
 
 # Mission
-- Analyze store data in general for the purpose of improving profits.
 - Build a dashboard that contains stores list, and when you choose a specific store, a detailed report appears on the status and information of this store.
 
 # Some of what has been done
@@ -38,4 +36,5 @@ Store_Sales: Sales in (US $) that stores made.
 - convert data as table
 
 - create pivot table
-
+- create dashboard
+- use VLOOKUP function
